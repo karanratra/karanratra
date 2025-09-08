@@ -41,7 +41,6 @@
 
 ## 🎤 Speaking & Judging Engagements  
 
-- 🎤 **Developer Conference Week 2025, Santa Clara** – Speaker  
 - 🎤 **Fremont Youth Commission** – Resume & Interview Skills Workshop (2024)  
 - 🎓 **Judge & Mentor** at HackMIT, HackHarvard, HackPrinceton, CalHacks, PennApps  
 - 🌍 **NASA Space Apps Challenge 2025** – Mentor & Judge  
